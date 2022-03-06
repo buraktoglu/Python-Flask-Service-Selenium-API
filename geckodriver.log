@@ -18023,3 +18023,20 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1646601739483	geckodriver	INFO	Listening on 127.0.0.1:58714
+1646601742516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58715" "-no-remote" "-profile" "C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofilenCbsR1"
+1646601742926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofilenCbsR1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58715/devtools/browser/bd6672e5-15f2-4b39-bc61-eab01cc7635c
+1646601745886	Marionette	INFO	Listening on port 57378
+1646601746215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 3469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646601755613	Marionette	INFO	Stopped listening on port 57378
+[Parent 21204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
