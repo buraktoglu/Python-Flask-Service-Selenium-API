@@ -44,5 +44,9 @@ http://localhost:5000/cars/list?brand=audi&brand=bmw
 
 http://localhost:5000/cars/list?year=2018&year=2019&year=2020
 
+Issues:
+
+Issue 1: 
+
 
 
