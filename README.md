@@ -46,9 +46,11 @@ http://localhost:5000/cars/list?year=2018&year=2019&year=2020
 
 Issues:
 
-Issue 1: Sponsored Adverts in cars.com redirects the flow to another domain so selenium stops working.
+Issue 1: Sponsored Adverts in cars.com redirects the flow to another domain so selenium stops working. Please send the request to service again when Sponsored Adverts shows up int he browser.
 
-Issue 2: Transmission and exterior color information does not included in main listing page.
+Issue 2: Transmission and exterior color information does not included in main listing page. Thus, Selenium API needs to roundtrip between each car's advert URL's. This extends the response time of the service in a linear manner. A modified version of the service without demanding transmission and color information could be written and added to the project. This will be the game changer when time management taken into consideration.
+
+
 
 
 
