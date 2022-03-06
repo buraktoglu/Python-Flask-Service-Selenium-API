@@ -202,9 +202,6 @@ def ListCars():
         driver.close()
         return "Bad Request. Service supports only one or two year filters!", 400
 
-    if numberOfParameters == 0 :
-        configurePagination(50)
-
     cars = goInGatherInfoNext(50)
     driver.close()
 
