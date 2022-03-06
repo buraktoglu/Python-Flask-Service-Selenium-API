@@ -50,7 +50,7 @@ Issue 1: Sponsored Adverts in cars.com redirects the flow to another domain so s
 
 Issue 2: Transmission and exterior color information does not included in main listing page. Thus, Selenium API needs to roundtrip between each car's advert URL's. This extends the response time of the service in a linear manner. A modified version of the service without demanding transmission and color information could be written and added to the project. This will be the game changer when time management taken into consideration.
 
-
+Issue 3: SeleniumAPI_test.py file is not related with the project. This file is just a workspace for the guidelines of the project. Service will provide without need. 
 
 
 
