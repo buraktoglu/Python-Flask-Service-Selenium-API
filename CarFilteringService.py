@@ -11,6 +11,7 @@ app = Flask(__name__)
 
 @app.route('/cars/list', methods=['GET'])
 def ListCars():
+    # webdriver configurations 
     driver = webdriver.Firefox(service = Service(GeckoDriverManager().install()))
     driver.implicitly_wait(8)
     driver.maximize_window()
@@ -58,7 +59,7 @@ def ListCars():
 
         return cars
 
-    ## Solves the getting 48 cars instead of 50 problem but not preferable or best practice due to time constraints
+    ## Solves some website-based problems but not preferable or best practice due to time constraints
     # def goInGatherInfoGetOut(numberOfCars) :
     #     configurePagination(100)
     #     cars = {}
@@ -173,7 +174,7 @@ def ListCars():
     transsLen = len(transs)
     yearsLen = len(years)
     brandLen = len(brand)
-    numberOfParameters = colorsLen + transsLen + yearsLen + brandLen
+    
 
     configurePagination(50)
 
