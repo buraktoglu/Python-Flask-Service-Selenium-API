@@ -14,15 +14,35 @@ Step 3: In CommandPrompt outputs as in the following image. Service will be runn
 
 Step 4: Requests can be send with a web browser or Postman alike RequestSender middlewares. 
 
-Valid Request as case study demands:
+Valid Request formats as case study demands: Requests in these formats will be responded 200(OK) by service.
 
 http://localhost:5000/cars/list
+
 http://localhost:5000/cars/list?brand=audi
+
 http://localhost:5000/cars/list?year=2018
+
 http://localhost:5000/cars/list?year=2018&year=2019
+
 http://localhost:5000/cars/list?color=blue
+
 http://localhost:5000/cars/list?color=blue&color=beige
+
 http://localhost:5000/cars/list?color=blue&color=beige&color=black
+
 http://localhost:5000/cars/list?trans=automatic
+
 http://localhost:5000/cars/list?trans=automatic&trans=automanual
+
 http://localhost:5000/cars/list?trans=automatic&trans=automanual&trans=cvt
+
+http://localhost:5000/cars/list?brand=audi&year=2018&color=blue&trans=automanual
+
+Invalid Request formats due to configurations of the website: Requests in these formats will be responded 400(Bad Request) by service.
+
+http://localhost:5000/cars/list?brand=audi&brand=bmw
+
+http://localhost:5000/cars/list?year=2018&year=2019&year=2020
+
+
+
