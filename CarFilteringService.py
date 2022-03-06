@@ -98,8 +98,8 @@ def ListCars():
         time.sleep(2)
         try :
             driver.find_element(By.XPATH, Colors[key]).click()
-        finally :      
             time.sleep(2)
+        finally :      
             click_Button_Colors.click()
             time.sleep(2)
         
@@ -122,8 +122,8 @@ def ListCars():
         time.sleep(2)
         try :
             driver.find_element(By.XPATH, Transmissions[key]).click()
-        finally :
             time.sleep(2)
+        finally :
             click_Button_Transmission.click()
             time.sleep(2)
         
@@ -175,6 +175,8 @@ def ListCars():
     brandLen = len(brand)
     numberOfParameters = colorsLen + transsLen + yearsLen + brandLen
 
+    configurePagination(50)
+
     # color filtering, support more than one color parameters
     for i in range(colorsLen) :
         checkColor(colors[i])
@@ -208,7 +210,7 @@ def ListCars():
 
     # main flow ends here
 
-    return jsonify({'cars': cars})
+    return jsonify(cars)
 
 if __name__ == '__main__':
     app.run(debug=True)
