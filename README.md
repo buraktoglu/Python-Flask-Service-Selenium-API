@@ -46,7 +46,9 @@ http://localhost:5000/cars/list?year=2018&year=2019&year=2020
 
 Issues:
 
-Issue 1: 
+Issue 1: Sponsored Adverts in cars.com redirects the flow to another domain so selenium stops working.
+
+Issue 2: Transmission and exterior color information does not included in main listing page.
 
 
 
