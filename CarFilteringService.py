@@ -153,6 +153,7 @@ def ListCars():
         selectMinYear(year1)
         time.sleep(2)
         selectMaxYear(year2)
+        time.sleep(2)
         return
 
     # VALID PARAMETERS [10, 20, 30, 50, 100]

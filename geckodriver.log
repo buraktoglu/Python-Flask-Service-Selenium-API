@@ -18161,3 +18161,154 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1646607287555	geckodriver	INFO	Listening on 127.0.0.1:53259
+1646607290644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53260" "-no-remote" "-profile" "C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofilevLjCWQ"
+1646607291068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofilevLjCWQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53260/devtools/browser/339803e5-98da-4062-bbaf-063c8ab95344
+1646607294777	Marionette	INFO	Listening on port 53265
+1646607294860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 62 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607316611	Marionette	INFO	Stopped listening on port 53265
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 2936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646607410299	geckodriver	INFO	Listening on 127.0.0.1:64166
+1646607413373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64167" "-no-remote" "-profile" "C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofile3MtEnr"
+1646607413804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofile3MtEnr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64167/devtools/browser/8d40efbe-7adb-405c-a8f2-e9a2976e21f4
+1646607416881	Marionette	INFO	Listening on port 64172
+1646607417110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646607419359	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 3838 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 2359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 28264, MediaDecoderStateMachine #1] WARNING: 1df7b07ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 3848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1646607443681	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607443697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607443731	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 3998 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607449616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607449627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607449637	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607454245	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.spincar.com/spincar-static/20190909/?_=24af772d5a816e#!customer=mercedes-benzofwestmont!vin=55swf8eb0ku304434!hideExpandBtn!region=us, line 278: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607461214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607461227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607461236	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607464950	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607464994	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607465018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/carsdotcomdfp130605486447/moatad.js#moatClientLevel1=23679629&moatClientLevel2=132183629&moatClientLevel3=4963599965&moatClientLevel4=138353029451&moatClientSlicer1=21874468176&moatClientSlicer2=21874476447&zMoatAU=/6427/shop/cmy.vdp/inline.10&zMoatST=&zMoatPS=&zMoatDT=unknown, line 245: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 494 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607471498	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607471509	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607471518	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607475193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646607475654	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 1469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607480880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646607480906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646607480907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646607486909	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607486932	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607486937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+1646607492529	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607492552	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1646607492557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1646607499719	Marionette	INFO	Stopped listening on port 64172
+1646607558268	geckodriver	INFO	Listening on 127.0.0.1:64833
+1646607561350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64834" "-no-remote" "-profile" "C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofileCM60yZ"
+1646607561798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Burak\\AppData\\Local\\Temp\\rust_mozprofileCM60yZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64834/devtools/browser/b5efec20-9bbc-42f3-af67-c11903b8119f
+1646607564721	Marionette	INFO	Listening on port 64840
+1646607565057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 5771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 6680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.cars.com/ARYXscg0CT/3z1CWUEekI/ahV1kVcc/Di4kAQ/eyZ/sdDESbTI, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 2546 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1646607587443	Marionette	INFO	Stopped listening on port 64840
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
